@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Example technology",
+    "ring": "Adopt",
+    "quadrant": "Connected Assets",
+    "description": "A description.... "
+  },
+  {
+    "name": "WiFi HaLow",
+    "ring": "Trial",
+    "quadrant": "Mobile",
+    "description": "Currently engaged with Thomas Moore WiSleep project duration 2022 - 2023. Also known as 802.11ah it is the first long-range LPWAN technology with WiFi alliance certification to gaurantee various uses.\n\n<br/>Examples of products: https://www.silextechnology.com/connectivity-solutions/wifi-access-point/ap-100ah\n<br/>Business model impact: Low RF suitable for body implants, assumed to be better adopted in sensitive environments (E.g healthcare, ATEX)\n<br/>Source: https://www.gartner.com/en/articles/5-impactful-technologies-from-the-gartner-emerging-technologies-and-trends-impact-radar-for-2022\n<br/>Referrer: Tom Collins"
+  }
+]
