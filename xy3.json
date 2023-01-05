@@ -1,0 +1,492 @@
+[
+  {
+    "name": "Example technology",
+    "ring": "Adopt",
+    "quadrant": "Connected Assets",
+    "description": "A description.... ",
+    "isNew": "FALSE",
+    "Source of the item": "yo",
+    "Timestamp": "11/16/2022 13:03:10",
+    "Email Address": null
+  },
+  {
+    "name": "WiFi HaLow",
+    "ring": "Trial",
+    "quadrant": "Mobile",
+    "description": "Currently engaged with Thomas Moore WiSleep project duration 2022 - 2023. Also known as 802.11ah it is the first long-range LPWAN technology with WiFi alliance certification to gaurantee various uses.\n\n<br/>Examples of products: https://www.silextechnology.com/connectivity-solutions/wifi-access-point/ap-100ah\n<br/>Business model impact: Low RF suitable for body implants, assumed to be better adopted in sensitive environments (E.g healthcare, ATEX)\n<br/>Source: https://www.gartner.com/en/articles/5-impactful-technologies-from-the-gartner-emerging-technologies-and-trends-impact-radar-for-2022\n<br/>Referrer: Tom Collins",
+    "isNew": "FALSE",
+    "Source of the item": "the goog",
+    "Timestamp": "11/16/2022 13:25:37",
+    "Email Address": "tom.collins@citymesh.com"
+  },
+  {
+    "name": "Graph databases",
+    "ring": "Assess",
+    "quadrant": "Data",
+    "description": "Beyond SQL and NoSQL, graph databases are a tool to find meaning across hetrogenous data sources across verticals - making sopshistcated queries possible using temporal, spatial and connectedness<br/>\n\n<br/>Examples of products: Neo4j, MongoDB\n<br/>Examples of companies: \n<br/>Business model impact: Data analysis services for Big Data\n<br/>Source: https://www.gartner.com/en/articles/5-impactful-technologies-from-the-gartner-emerging-technologies-and-trends-impact-radar-for-2022\n<br/>Referrer: Tom Collins",
+    "isNew": "FALSE",
+    "Source of the item": "fdsg",
+    "Timestamp": "11/16/2022 13:31:32",
+    "Email Address": "tom.collins@citymesh.com"
+  },
+  {
+    "name": "ATEX Safety Drone",
+    "ring": "Hold",
+    "quadrant": "Connected Assets",
+    "description": "Small scale inspection drone for dangerous environments in chemical/oil sectors etc\n<br/>\n<br/>Business model impact: New use cases, private networking cases\n<br/>Source: www.atexshop.com/explosion-proof-drone-intrinsically-safe.html\n<br/>Referrer: Tom Collins",
+    "isNew": "FALSE",
+    "Source of the item": "lima",
+    "Timestamp": "11/16/2022 13:39:32",
+    "Email Address": "tom.collins@citymesh.com"
+  },
+  {
+    "name": "LoRaWAN People Counter [example]",
+    "ring": "Hold",
+    "quadrant": "Connected Assets",
+    "description": "A low cost people counter for commerical buildings that can be used with a private LoRaWAN network.\n\n\n<br/>\n<br/>Reason for interest: Cost and accuracy should be explored\n<br/>Comparable to:\n<br/>Examples of products: https://www.imbuildings.com/lorawan-people-counter/\n<br/>Examples of companies: \n<br/>Business model impact: New use cases, private networking cases\n<br/>Source: \n<br/>Referrer: Tom Collins",
+    "isNew": "FALSE",
+    "Source of the item": "llklk",
+    "Timestamp": "11/18/2022 9:30:23",
+    "Email Address": "tom.collins@citymesh.com"
+  },
+  {
+    "name": "OpenVAS (Vulnerabiltiy Assessment Scanner)[example]",
+    "ring": "Assess",
+    "quadrant": "Security & Privacy",
+    "description": "OpenVAS is a full-featured vulnerability scanner. Its capabilities include unauthenticated and authenticated testing, various high-level and low-level internet and industrial protocols, performance tuning for large-scale scans and a powerful internal programming language to implement any type of vulnerability test.",
+    "isNew": "FALSE",
+    "Source of the item": "lk,",
+    "Timestamp": "11/18/2022 11:26:34",
+    "Email Address": "tom.collins@citymesh.com"
+  },
+  {
+    "name": "OAI-5G CN",
+    "ring": "Assess",
+    "quadrant": "Mobile",
+    "description": "3GPP-Compliant 5G Standalone (SA) CN implementation with a rich feature set. OAI 5G CN is designed and implemented in a flexible way which can be easily adapted to fulfill the needs of diversified 5G use-cases. All the features of the OAI 5G CN components are continuously tested with professional testers, commercial gNBs (with COTS UE) and open-source RAN simulators.  \n\nCurrent plans are to assess features with the Firecell labkit ",
+    "isNew": "TRUE",
+    "Source of the item": "Is in use with the Firecell 4G/5G Lab evaluation kit that used by the research team",
+    "Timestamp": "11/29/2022 10:29:42",
+    "Email Address": "tom.collins@citymesh.com"
+  },
+  {
+    "name": "Intent-based networking",
+    "ring": "Trial",
+    "quadrant": "Mobile",
+    "description": "Intent-based networking is a software-enabled automation process that uses high levels of intelligence, analytics, and orchestration to improve network operations and uptime. When operators describe the business outcomes they wish to accomplish, the network converts those objectives into the configuration necessary to achieve them, without individual tasks having to be coded and executed manually.\n\n\nCurrently we trial a solution from https://inmanta.com for testing 5G CNs. \n\nIt is relatable to the 5GECO ICON project also proposes similar goals through Intelligent Neutral Host infrastructure ",
+    "isNew": "TRUE",
+    "Source of the item": "\thttps://www.vmware.com/topics/glossary/content/intent-based-networking.html",
+    "Timestamp": "12/5/2022 14:56:39",
+    "Email Address": "tom.collins@citymesh.com"
+  },
+  {
+    "name": "SimpleRAN",
+    "ring": "Hold",
+    "quadrant": "Mobile",
+    "description": "https://www.simpleran.org/\n\nAn O-ran initiative used by amarisoft. \n\nObjectives\nThe goal of the SimpleRAN initiative is to publish a series of standards that ensure interoperability and transparency in the vRAN ecosystem. SimpleRAN promotes a practical approach aiming to accelerate commercial deployments while remaining compatible with legacy infrastructure.\n\nKey Benefits\nvendor neutral;\nshould rather than must;\nno dependency to proprietary acceleration hardware;\nalready deployed by commercial carriers;\nfour times fewer components, half the cost;\nbased on existing standards (3GPP, ETSI, etc.);\ncompatible with existing infrastructure;\ncompatible with 4G;\ndynamic spectrum sharing (4G/5G);\ndistributed core network;\nno NDA needed to join;\n5 RRH vendors already certified;\nfull performance on 5G (6 Gbps).",
+    "isNew": "TRUE",
+    "Source of the item": "https://www.simpleran.org/",
+    "Timestamp": "12/16/2022 10:27:55",
+    "Email Address": "nico.vanhevel@citymesh.com"
+  },
+  {
+    "name": "5G Cellular-V2X",
+    "ring": "Hold",
+    "quadrant": "Mobile",
+    "description": "Technology for doing V2X, added in 3GPP Rel-16. \n\nQualcomm seems to be working a lot on this. \n\nhttps://www.qualcomm.com/products/application/automotive/c-v2x\nhttps://5gaa.org/\n",
+    "isNew": "TRUE",
+    "Source of the item": "https://www.qualcomm.com/products/application/automotive/c-v2x",
+    "Timestamp": "12/27/2022 10:22:43",
+    "Email Address": "nico.vanhevel@citymesh.com"
+  },
+  {
+    "name": "Willow-X Robot - Mini AGV ",
+    "ring": "Assess",
+    "quadrant": "Connected Assets",
+    "description": "Noted by research team as a low-cost robotics platform for development",
+    "isNew": "FALSE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "5G FeMBMS - Broadcast cellular (3GPP Feature)",
+    "ring": "Trial",
+    "quadrant": "Mobile",
+    "description": "We test this via the Live G project",
+    "isNew": "FALSE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "5G Network Slicing - logical networking tool (3GPP Feature)",
+    "ring": "Trial",
+    "quadrant": "Mobile",
+    "description": "We test this via the 5GECO ICON project",
+    "isNew": "FALSE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "5G ORAN 7.2 - low-level dissagregation feature",
+    "ring": "Trial",
+    "quadrant": "Mobile",
+    "description": "We test this via the 5GECO ICON project",
+    "isNew": "FALSE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "UERANSIM - Simulator for UEs",
+    "ring": "Assess",
+    "quadrant": "Mobile",
+    "description": "Simulated 5G Core and UE devices",
+    "isNew": "FALSE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "TICK Stack",
+    "ring": "Adopt",
+    "quadrant": "Data",
+    "description": "This is an example ",
+    "isNew": "FALSE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "Collibra Data goverance tool",
+    "ring": "Hold",
+    "quadrant": "Security & Privacy",
+    "description": "This is an example ",
+    "isNew": "FALSE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "Indoor localisation, RTLS, Ultra Wideband (UWB) ",
+    "ring": "Assess",
+    "quadrant": "Connected Assets",
+    "description": "As a member of IMEC's Wireless Community, Citymesh gets insights various wireless technologies. RTLS and ultrawide band have been a recent topic \n<br/>\n<br/>Examples of companies: www.pozyx.io\n<br/>Business model impact: New type of FFAI New use cases, private networking cases\n<br/>Referrers: Tom Collins, Clint Haerinck",
+    "isNew": "FALSE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "Open5GS CN",
+    "ring": "Trial",
+    "quadrant": "Mobile",
+    "description": "An open-source 5G core - currently being tested and planned use in the 5GECO project\n\nCurrent plans are to assess features with the Firecell labkit. Tested and running locally on Linux no results with RAN access yet\n\n",
+    "isNew": "FALSE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "5G Lab/Evaluation kit",
+    "ring": "Adopt",
+    "quadrant": "Mobile",
+    "description": "Beyond dedicated production 5G RAN/Cores we aim to find suitable tools to support design/development of specific features or software in a 5G ecosystem\n\nExamples were evaluated here: https://docs.google.com/spreadsheets/d/10cEcjzW1guorAZ3s0nS776xDhPG7ixdzWdD4moS0vMk/edit?usp=sharing\n\nFirecell lab kit was selected and PO made - Kit expected early 2023",
+    "isNew": "FALSE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "Magma 5G CN",
+    "ring": "Assess",
+    "quadrant": "Mobile",
+    "description": "An open-source OAI-based 5G core supported by Meta, ARM, qualcomm, redhat, aarna, amd, helium \n\nCurrent plans are to assess features with the Firecell labkit ",
+    "isNew": "TRUE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "FreedomFi - Community driven open-5G networks with crypto",
+    "ring": "Hold",
+    "quadrant": "Mobile",
+    "description": "https://freedomfi.com uses certified base stations hosted by normal people and incentivised with Helium crypto. See Helium LPWAN for more.\n\nFreedomFi is revolutionizing wireless by building an Open 5G mobile network leveraging open source software, flexible spectrum, blockchain, and community participation to increase access, expand coverage, and lower costs for everyone. Founded by open source software veterans and telecom experts, the company is one of the top contributors of code to project Magma, which is governed by the Linux Foundation and is quickly emerging as the standard for decentralized wireless infrastructure. FreedomFi is backed by Blueyard Capital, Qualcomm Ventures and Samsung Next.\n\nCurrent plans: No plans but interesting to know",
+    "isNew": "TRUE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "Aerial 5G Relays - E.g UAV, Balloons",
+    "ring": "Hold",
+    "quadrant": "Mobile",
+    "description": "mmWave based aerial deployment of 5G https://dl.acm.org/doi/abs/10.1145/3508396.3512874\n\nCurrent plans: Noneyet, this is supra levels of innovation\n\nExample company: https://www.stratosphericplatforms.com/\n\n\"the advantage of our aircraft is that typically one aircraft can replace around 450 masts on the ground.”",
+    "isNew": "TRUE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "5G mmWave Extended Range - 5G innovation allowing 7km range line of sight",
+    "ring": "Hold",
+    "quadrant": "Mobile",
+    "description": "Standard mmWave is considered for hundreds of metres. mmWave Extended Range claims 7km support\n\nEricsson article: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9954447",
+    "isNew": "TRUE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "Starlink (& marine)",
+    "ring": "Trial",
+    "quadrant": "Mobile",
+    "description": "Starlink High-speed, low-latency broadband internet in remote and rural locations across the globe. $110/mo with a one-time hardware cost of $599. Starlink Maritime is $5,000 per month. There is no contract, users can cancel at any time. Users can also pause service for seasonal usage. There is a one-time fee of $10,000 for the Starlink Maritime hardware kit, which includes two Business dishes and mounting accessories",
+    "isNew": "TRUE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "Account Takeover (E.g Darkweb scanner)",
+    "ring": "Trial",
+    "quadrant": "Security & Privacy",
+    "description": "Citymesh is testing solutions such as https://spycloud.com, LastPass for Dark Web Monitoring and other services form Cegeka Managed SOC services.\n\nDurial the open trail of SpyCloud - CM details we actually discoverd and Sec team were able to respond 👍👍👍\n\n",
+    "isNew": "TRUE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "Attack Surface Monitoring ",
+    "ring": "Adopt",
+    "quadrant": "Security & Privacy",
+    "description": "Example solutions: SOCRadar + Cloudflare\n\nFor more information contact the sec team",
+    "isNew": "TRUE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "Mobile Device Management / Unified Endpoint Management",
+    "ring": "Adopt",
+    "quadrant": "Security & Privacy",
+    "description": "currently Miradore, moving to Tanium\n\nFor more information contact the sec team",
+    "isNew": "TRUE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "Endpoint Detection & Response",
+    "ring": "Adopt",
+    "quadrant": "Security & Privacy",
+    "description": "Currently adopted Crowdstrike Falcon!\n\nFor more information contact the sec team",
+    "isNew": "TRUE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "Network Detection & Response",
+    "ring": "Adopt",
+    "quadrant": "Security & Privacy",
+    "description": "We use Vectra. <br> For more information contact the sec team",
+    "isNew": "TRUE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "Security Incident & Event Monitoring",
+    "ring": "Adopt",
+    "quadrant": "Security & Privacy",
+    "description": "--> Splunk <br> For more information contact the sec team",
+    "isNew": "TRUE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "Vulnerability Management",
+    "ring": "Adopt",
+    "quadrant": "Security & Privacy",
+    "description": "Tanium + Tenable Nessus + OpenVAS <br> For more information contact the sec team",
+    "isNew": "TRUE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "RADIUS",
+    "ring": "Adopt",
+    "quadrant": "Security & Privacy",
+    "description": "Clearpass <br> For more information contact the sec team",
+    "isNew": "TRUE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "Identity & Access Management",
+    "ring": "Adopt",
+    "quadrant": "Security & Privacy",
+    "description": "Chosen solution(s): Okta <br> For more information contact the sec team",
+    "isNew": "TRUE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "Password Management",
+    "ring": "Adopt",
+    "quadrant": "Security & Privacy",
+    "description": "Lastpass <br> For more information contact the sec team",
+    "isNew": "TRUE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "Zero Trust Network Access / VPN",
+    "ring": "Adopt",
+    "quadrant": "Security & Privacy",
+    "description": "Cloudflare WARP For more information contact the sec team",
+    "isNew": "TRUE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "Firewalls",
+    "ring": "Adopt",
+    "quadrant": "Security & Privacy",
+    "description": "6wind + Fortinet <br> For more information contact the sec team",
+    "isNew": "TRUE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "API Gateway",
+    "ring": "Assess",
+    "quadrant": "Security & Privacy",
+    "description": "For more information contact the sec team",
+    "isNew": "TRUE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "5G Security Gateway",
+    "ring": "Assess",
+    "quadrant": "Security & Privacy",
+    "description": "For more information contact the sec team",
+    "isNew": "TRUE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "Web Application Firewall",
+    "ring": "Adopt",
+    "quadrant": "Security & Privacy",
+    "description": "(Cloudflare) For more information contact the sec team",
+    "isNew": "TRUE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "Uplink DDoS protection",
+    "ring": "Adopt",
+    "quadrant": "Security & Privacy",
+    "description": "Colt + Arelion For more information contact the sec team",
+    "isNew": "TRUE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "Pentesting",
+    "ring": "Adopt",
+    "quadrant": "Security & Privacy",
+    "description": "For more information contact the sec team",
+    "isNew": "TRUE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "6G Cell-free networking",
+    "ring": "Hold",
+    "quadrant": "Mobile",
+    "description": "A concept moving mobile networks away from cell-based topographies and towards overlapping bubbles with the possibliity for multiple APs provide connectivity to a single UE. Optimised for bandwidth and energy usage. <br> Good description here: https://www.rfwireless-world.com/Terminology/Difference-between-cellular-network-and-cell-free-network.html <br> Citymesh has been asked by KU Leuven to provide feedback on an internal research track on this topic - under LOI.",
+    "isNew": "TRUE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "6TiSCH",
+    "ring": "Hold",
+    "quadrant": "Mobile",
+    "description": "A concept for IPv6 over the TSCH mode of IEEE 802.15.4e (layer requirements for wireless personal area networks) low-cost, low-data-rate wireless access technology for devices that are operated or work on batteries. <br> This technology is being researched by various universities in Belgium and was presented at a Wireless Community event 2022 Q4",
+    "isNew": "TRUE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "Matter",
+    "ring": "Hold",
+    "quadrant": "Connected Assets",
+    "description": "The Matter protocol is a royalty-free home automation connectivity standard, with manufacturers only incurring certification costs. Matter is a unified, open-source application-layer connectivity standard built to enable developers and device manufacturers to connect and build reliable, and secure ecosystems and increase compatibility among connected home devices. It is built with market-proven technologies using Internet Protocol (IP) and is compatible with Thread and Wi-Fi network transports.  <br> Good FAQ: https://matter-smarthome.de/en/matter-faq-en/ <br> Official website: https://csa-iot.org/all-solutions/matter/",
+    "isNew": "TRUE",
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "Satellite-to-mobile",
+    "ring": "Hold",
+    "quadrant": "Mobile",
+    "description": "Consider actions by AST SpaceMobile and Lynk Global allow direct cell signals to be received by normal hand sets",
+    "isNew": null,
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "5G Network visibilty",
+    "ring": "Hold",
+    "quadrant": "Security & Privacy",
+    "description": "Consider https://www.mantisnet.com/products/",
+    "isNew": null,
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "Network Performance Management (NPM)",
+    "ring": "Hold",
+    "quadrant": "Mobile",
+    "description": "Next to intent-based networking - performance monitoring is seeing a new wave of intelligent monitoring solutions. \"The collection of methods that manage, enable, and ensure a computer network’s optimal performance levels. Typically, network performance management demands the routine monitoring of quality and performance service levels for each network component and device\"",
+    "isNew": null,
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  },
+  {
+    "name": "Open API for 5G third-parties ",
+    "ring": "Hold",
+    "quadrant": "Mobile",
+    "description": "DT has an early access program to their 5G API https://www.hubraum.com/5g-early-access-program-improving-our-apis/",
+    "isNew": null,
+    "Source of the item": null,
+    "Timestamp": null,
+    "Email Address": null
+  }
+]
